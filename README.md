@@ -1,9 +1,9 @@
 # PoseNet as MIDI controller for Live
 
+![Example](https://github.com/nmtrang29/p5js-osc/blob/master/recording/example.gif)
+
 Use PoseNet/p5.js to detect pose and communicate with Live via LiveOSC.
 - p5js > LiveOSC > Ableton
-
-![Example](https://github.com/nmtrang29/p5js-osc/blob/master/recording/example.gif)
 
 #### Demo video: 
 https://vimeo.com/331012711
