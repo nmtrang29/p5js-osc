@@ -3,7 +3,7 @@
 Use PoseNet/p5.js to detect pose and communicate with Live via LiveOSC.
 - p5js > LiveOSC > Ableton
 
-![alt text](https://confluence.office.ableton.com/download/attachments/225546269/test2.gif?version=1&modificationDate=1555510111873&api=v2g)
+![Example](https://github.com/nmtrang29/p5js-osc/blob/master/recording/example.gif)
 
 #### Demo video: 
 https://vimeo.com/331012711
